@@ -1,0 +1,85 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "heeriye",
+      "thumbnail": "https://i.ytimg.com/vi/_ah53UDUn9I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "2",
+      "caption": "chaleya",
+      "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/LHEU3tE_biU"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "categoryName": "movie songs",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "heeriye",
+          "thumbnail": "https://i.ytimg.com/vi/_ah53UDUn9I/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+        },
+        {
+          "id": "1",
+          "caption": "heeriye",
+          "thumbnail": "https://i.ytimg.com/vi/_ah53UDUn9I/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+        },
+        {
+          "id": "2",
+          "caption": "chaleya",
+          "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/LHEU3tE_biU"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "categoryName": "favorites",
+      "allVideos": []
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "caption": "chiththa song1",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "13/12/2023"
+    },
+    {
+      "id": "23ec3100-3bdd-475d-b2a3-7dedead1dcc9",
+      "caption": "heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-18T16:34:11.477Z"
+    },
+    {
+      "id": "6b6b4797-d3d7-46b1-972a-c310cf910e7d",
+      "caption": "chiththa song1",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "2023-12-18T16:35:00.016Z"
+    },
+    {
+      "id": "b6f1a349-8720-47ec-8399-42888626693f",
+      "caption": "chiththa song1",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "2023-12-18T16:36:22.249Z"
+    },
+    {
+      "id": "47426847-dba7-47d0-b413-def2271f7b51",
+      "caption": "heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-18T17:24:57.769Z"
+    },
+    {
+      "id": "6150b886-ece2-4e7f-99d1-535a0d592877",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/LHEU3tE_biU",
+      "date": "2023-12-18T17:35:07.718Z"
+    }
+  ]
+}
